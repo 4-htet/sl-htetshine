@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Htet Shine</h1>
 <h3 align="center">A passionate backend developer from Myanmar</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=htetshine&label=Profile%20views&color=0e75b6&style=flat" alt="htetshine" /> </p>
-
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=htetshine" alt="htetshine" /> </p>
-
 - 📫 How to reach me **dev.htetshine@securelinkmm.com**
 
 ### Blogs posts
